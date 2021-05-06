@@ -1,15 +1,13 @@
 
 local webhook = {
-			log = "https://discord.com/api/webhooks/814961385317990421/_8-L9KlJPLXdLL3jqtAdNbrwa4AxKR0LbCTAzgEcQXKGBXdnsHCVDnNglRsyx3qjqngO",
-			police = "https://discord.com/api/webhooks/814962171489288197/HP9ARYsDpQ2qgZ9id-ZYh669ybuXRsn6w3_1HkLloCTo-dLMnb93zQIyDedrOmyRG_g_",
-			annonce =  "https://discord.com/api/webhooks/814961536346488854/zTVyfOcw_b-9qMN6UF7R1H_Z0Gi5ZUnwvLUKKt_RqKR-kvWkaExBiSe2rMuirwxPXz80",
+			log = "https://...",
+			police = "https://...",
 
 }
 
 local image = {
-			log = "https://cdn.discordapp.com/attachments/759297745839718420/769289275904229406/Logo.png",
-			police = "https://cdn.discordapp.com/attachments/759297745839718420/777092048976085012/latest.png",
-			annonce = "https://cdn.discordapp.com/attachments/759297745839718420/769289275904229406/Logo.png",
+			log = "https://...",
+			police = "https://...",
 
 } 
 
